@@ -1,3 +1,5 @@
+link to Colab notebook: https://colab.research.google.com/drive/19k0XeiHXpYv-3Wb1dHxfW1JC_g9txkDA?usp=sharing
+
 <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
 
 <a href="https://opensource.facebook.com/support-ukraine">
