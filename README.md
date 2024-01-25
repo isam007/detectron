@@ -1,4 +1,4 @@
-link to Colab notebook: https://colab.research.google.com/drive/19k0XeiHXpYv-3Wb1dHxfW1JC_g9txkDA?usp=sharing
+link to Colab notebook by Irene Sam: https://colab.research.google.com/drive/1SZ0z_X4e8Ejkid21Q934RwsGMap2_Ld3?usp=sharing
 
 <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
 
