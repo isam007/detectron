@@ -1,6 +1,6 @@
 link to Colab notebook by Irene Sam: https://colab.research.google.com/drive/1SZ0z_X4e8Ejkid21Q934RwsGMap2_Ld3?usp=sharing
 
-
+<br/>
 <img src=".github/Detectron2-Logo-Horz.svg" width="300" >
 
 <a href="https://opensource.facebook.com/support-ukraine">
